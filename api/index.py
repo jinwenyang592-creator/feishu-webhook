@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 from http.server import BaseHTTPRequestHandler
 import json
 import urllib.request
